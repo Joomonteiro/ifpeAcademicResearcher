@@ -1,0 +1,12 @@
+# Ignore All (xlsx) files
+*.xlsx
+
+# ignore virtual enviroment
+env
+
+# ignore python cache
+__pycache__
+
+*.log
+
+# dados-321419-a81530f4cdfb.json
